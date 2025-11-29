@@ -19,8 +19,8 @@ Follow these steps to run the app locally.
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/your-repo.git
-cd your-repo
+https://github.com/BertTWO/simple-hotel-management-system.git
+cd jordanhotel
 ```
 
 ---
