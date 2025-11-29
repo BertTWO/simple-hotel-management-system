@@ -19,7 +19,7 @@ Follow these steps to run the app locally.
 ### Clone the Repository
 
 ```bash
-https://github.com/BertTWO/simple-hotel-management-system.git
+git clone https://github.com/BertTWO/simple-hotel-management-system.git
 cd jordanhotel
 ```
 
