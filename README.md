@@ -44,7 +44,7 @@ flutter run
 
 Select your target device/emulator if prompted.
 
-#### Using Android Studio
+#### If you're using Android Studio
 
 1. Open **Android Studio**.
 2. Click **File → Open** and select the project folder.
@@ -61,4 +61,4 @@ Select your target device/emulator if prompted.
 * Android Studio must have the Flutter and Dart plugins installed.
 
 ---
->>>>>>> 36d40740857aafe8d64ab7a2405153b7a386aa47
+
