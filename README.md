@@ -1,6 +1,6 @@
 # Jordan Hotel App
 
-A Flutter application for hotel management including rooms, guests, bookings, and payments.
+A simple Flutter application for hotel management including rooms, guests, bookings, and payments.
 
 ---
 
@@ -53,31 +53,10 @@ Select your target device/emulator if prompted.
 
 ---
 
-### Seed Sample Data
-
-If your app supports seeding sample data:
-
-1. Open the app.
-2. Navigate to the page or button that seeds data (if implemented).
-3. Tap to populate rooms, guests, bookings, and payments.
-
----
-
 ### Notes
 
 * Make sure Flutter is properly installed and added to your PATH.
 * Use the latest stable version of Flutter for compatibility.
 * Android Studio must have the Flutter and Dart plugins installed.
-* For iOS, Xcode must be installed.
 
 ---
-
-### Contributing
-
-Feel free to fork and submit PRs.
-
----
-
-### License
-
-MIT
